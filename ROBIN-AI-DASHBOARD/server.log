@@ -1,0 +1,9 @@
+
+> lumen@2.0.0 start
+> node -e "require('fs').existsSync('.next')||require('child_process').execSync('next build',{stdio:'inherit'})" && next start
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1347ms
